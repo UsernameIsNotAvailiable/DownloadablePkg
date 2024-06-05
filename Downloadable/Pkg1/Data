@@ -1,3 +1,0 @@
-@ECHO OFF
-
-set local=C:\TheCompany\$PkgMgr\Pkg_Testing
